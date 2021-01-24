@@ -1,5 +1,5 @@
 # ESC-21WINTER
-![ESC-21WINTER](https://github.com/YonseiESC/ESC-21WINTER/blob/master/img/1.png?raw=true)
+![Poster](https://raw.githubusercontent.com/YonseiESC/ESC21-WINTER/master/img/1.png)
 
 ## Individual Sutdies
 
