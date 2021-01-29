@@ -31,6 +31,6 @@ https://youtu.be/jziJARiEHg8
 [ESC 2021-1] 210121 Bayes / Optimization Study Presentation & Hun-Learning Linear Algebra <br>
 https://youtu.be/WNyZ-Lc2cRw
 
-[ESC 2021-1] 210121 Linear Algebra / Optimization Study Presentation & Hun-Learning Linear Algebra <br>
-https://youtu.be/_b8kn9HpkpU : Linear Algebra
+[ESC 2021-1] 210128 Linear Algebra / Optimization Study Presentation & Hun-Learning Linear Algebra <br>
+https://youtu.be/_b8kn9HpkpU : Linear Algebra <br>
 https://drive.google.com/file/d/12I4WDYaLXKoYwTtTB3Gj4SumIVTvgf4N/view?usp=sharing : Optimization
