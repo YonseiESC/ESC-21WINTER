@@ -34,3 +34,6 @@ https://youtu.be/WNyZ-Lc2cRw
 [ESC 2021-1] 210128 Linear Algebra / Optimization Study Presentation & Hun-Learning Linear Algebra <br>
 https://youtu.be/_b8kn9HpkpU : Linear Algebra <br>
 https://drive.google.com/file/d/12I4WDYaLXKoYwTtTB3Gj4SumIVTvgf4N/view?usp=sharing : Optimization
+
+[ESC 2021-1] 210204 Bayes / Java Study Presentation & Hun-Learning Linear Algebra Kang-Quiz <br>
+https://youtu.be/mb7BeqmucSs
