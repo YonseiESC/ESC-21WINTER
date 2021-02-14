@@ -37,3 +37,6 @@ https://drive.google.com/file/d/12I4WDYaLXKoYwTtTB3Gj4SumIVTvgf4N/view?usp=shari
 
 [ESC 2021-1] 210204 Bayes / Java Study Presentation & Hun-Learning Linear Algebra Kang-Quiz <br>
 https://youtu.be/mb7BeqmucSs
+
+[ESC 2021-1] 210210 Linear Algebra Study / Bayes Presentation & Junghun Linear Algebra <br>
+https://youtu.be/Eh2pPCV6DF8
